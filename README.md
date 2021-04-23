@@ -9,3 +9,5 @@ This is a command line employee database program. This program includes the foll
 * Load a database (pickle file)
 * Save a database (pickle file)
 * Export a database to Excel
+
+Employee Database holds a special place in my collection as it was one of my first programs!
